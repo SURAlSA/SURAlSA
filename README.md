@@ -25,4 +25,5 @@ My main interests are in Operation systems, High Performance Computing (HPC), Si
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <br/>
 #
-![Surai's GitHub stats](https://github-readme-stats.vercel.app/api?username=SURAlSA&show_icons=true&theme=neon)
+<br/>
+![Surai's GitHub stats](https://github-readme-stats.vercel.app/api?username=SURAlSA&theme=neon&show_icons=true)
