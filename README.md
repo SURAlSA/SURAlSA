@@ -24,8 +24,8 @@ My main interests are in Operation systems, High Performance Computing (HPC), Si
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <br/>
-#
-<br/>
+
+---
 
 ### Stats
 
