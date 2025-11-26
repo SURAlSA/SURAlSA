@@ -8,7 +8,7 @@ I've been working on while completing my study. Most of my work here comes from 
 to solve a problem or building something to augment my workflow. Expecting a finish in Autumn 2026, I hope to snag a role
 or internship in Software Engineering where I can continue learning and work on some exciting projects.
 
-My main interests are in Operation systems, High Performance Computing (HPC), Enterprise Software Engineering, Simulations, Development Tools, Embedded Software Engineering, and GPU programming.
+My main interests are in Operation systems, High Performance Computing (HPC), Enterprise Software Engineering, Simulations, Development Tools, and GPU programming.
 
 ---
 
