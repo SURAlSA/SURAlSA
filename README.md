@@ -31,9 +31,3 @@ My main interests are in Operation systems, High Performance Computing (HPC), En
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
 <br/>
-
----
-
-### Stats
-
-![Surai's GitHub stats](https://github-readme-stats.vercel.app/api?username=SURAlSA&theme=neon&show_icons=true)
